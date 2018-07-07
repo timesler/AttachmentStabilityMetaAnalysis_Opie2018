@@ -2,6 +2,7 @@
 R code required for generating results presented in paper.
 
 ## Dependencies
+1. Windows 10.
 1. R version 3.4.2 or higher.
 1. RStudio version 1.1.3 or above.
 
